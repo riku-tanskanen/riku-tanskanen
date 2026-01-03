@@ -1,5 +1,5 @@
 # About Me:
-🧠 Computer Science at Tampere University
+🧠 Computer Science student at Tampere University <br>
 🎯 Passionate about experimenting with AI to solve real problems
 
 
