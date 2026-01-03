@@ -1,6 +1,6 @@
 # About Me:
 🧠 Computer Science student at Tampere University <br>
-🎯 Passionate about experimenting with AI to solve real problems
+🎯 Passionate about exploring and leveraging AI tools to solve real problems
 
 
 # Tech Stack:
